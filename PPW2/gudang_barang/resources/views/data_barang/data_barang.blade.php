@@ -32,7 +32,7 @@
                     <td>{{ $item->nama_barang }}</td>
                     <td>{{ $item->harga }}</td>
                     <td>{{ $item->stok }}</td>
-                    <td>{{ $item->id_suplier }}</td>
+                    <td>{{ $item->id_supplier }}</td>
                 </tr>
             @endforeach
         </tbody>
